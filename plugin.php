@@ -5,7 +5,7 @@
  * Plugin author: Onni Hakala / Geniem Oy
  * Plugin URI: https://github.com/devgeniem/wp-noindex-testing-staging-robots
  * License URI: https://opensource.org/licenses/MIT
- * Version: 1.0
+ * Version: 1.0.1
  */
 
 /**
