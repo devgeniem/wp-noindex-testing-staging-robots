@@ -1,0 +1,22 @@
+{
+  "name": "devgeniem/wp-noindex-testing-staging-robots",
+  "type": "wordpress-muplugin",
+  "license": "MIT",
+  "description": "Uses robots.txt to not index development/testing environments of this site with search-engines",
+  "homepage": "https://github.com/devgeniem/wp-safe-fast-and-clean-collection",
+  "authors": [
+    {
+      "name": "Onni Hakala",
+      "email": "onni.hakala@geniem.com",
+      "homepage": "https://github.com/onnimonni",
+      "role": "Developer"
+    }
+  ],
+  "keywords": [
+    "wordpress", "noindex", "robots", "development", "staging"
+  ],
+  "require": {
+    "php": ">=5.6",
+    "composer/installers": "^v1.0.12"
+  }
+}

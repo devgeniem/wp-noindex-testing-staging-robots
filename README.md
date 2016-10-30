@@ -1,4 +1,5 @@
-# wp-noindex-testing-staging-robots
+![geniem-github-banner](https://cloud.githubusercontent.com/assets/5691777/14319886/9ae46166-fc1b-11e5-9630-d60aa3dc4f9e.png)
+# WP MU-Plugin: Hide Development/Testing enviroments from robots
 
 Deny site from `/robots.txt` if it's accessed with `WP_ENV=staging` or `WP_ENV=testing`.
 

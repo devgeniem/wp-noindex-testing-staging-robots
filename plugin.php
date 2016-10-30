@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin name: Hide Development/Staging From Indexing
- * Description: Uses robots.txt to not index this site with search-engines
+ * Plugin name: WP noindex testing staging robots
+ * Description: Uses robots.txt to not index development/testing environments of this site with search-engines
  * Plugin author: Onni Hakala / Geniem Oy
  * Plugin URI: https://github.com/devgeniem/wp-noindex-testing-staging-robots
  * License URI: https://opensource.org/licenses/MIT
