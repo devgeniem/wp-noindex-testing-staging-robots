@@ -19,6 +19,7 @@ define('WP_HIDE_ROBOTS_DOMAINS','geniem.io,example.com');
 
 ## Maintainer
 [Onni Hakala](https://github.com/onnimonni)
+[Liblastic](https://github.com/Liblastic)
 
 ## License
 MIT
